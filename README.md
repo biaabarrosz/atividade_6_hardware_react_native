@@ -1,0 +1,1 @@
+# atividade_6_hardware_react_native
